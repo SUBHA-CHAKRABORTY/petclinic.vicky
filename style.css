@@ -1,0 +1,885 @@
+body {
+    overflow-x: hidden;
+    /* max-width: 1165px; */
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+/* navbar section */
+
+
+#navbar-banner {
+    padding: 0px 141px;
+    background-color: #daac00;
+    height: 120px;
+    display: flex;
+    align-items: center;
+}
+
+#navbar-body {
+
+    padding: 0px;
+
+}
+
+.navbar-brand img {
+    /* margin-left: 140px; */
+    /* margin-left: 138px; */
+
+}
+
+#navbar-home {
+    padding-left: 77px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    color: #ffff;
+}
+
+#navbar-about {
+    padding-left: 42px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    color: #ffff;
+}
+
+#navbar-service {
+    padding-left: 43px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    color: #ffff;
+}
+
+#navbar-contact {
+    padding-left: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    color: #ffff;
+}
+
+#search-bar-container {
+    padding-left: 72px;
+}
+
+#search-bar {
+    width: 204px !important;
+    background-color: #fcc302;
+    border: none;
+    height: 52px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    font-size: 20.83px;
+    margin: 0px;
+    padding-left: 18px;
+    box-shadow: 6px 6px 9px #caa000;
+}
+
+#search-bar::placeholder {
+    color: #ffff;
+}
+
+#search-ber-button {
+    width: 72px;
+    height: 52px;
+    background-color: #00bec9;
+}
+
+.fa-magnifying-glass {
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+/* banner 1 section */
+
+
+
+#banner-1 {
+    height: auto;
+    background-color: #fcc302;
+    padding: 0px;
+    padding: 20px 141px;
+
+}
+
+.banner-detailes-and-picture {
+    display: flex;
+}
+
+.banner-detailes {
+    /* padding-left: 138px; */
+}
+
+.left-side-descriptions {
+    padding-top: 250px;
+    height: auto;
+}
+
+.left-heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 66.67px;
+    color: #ffff;
+    line-height: 1.1;
+}
+
+.left-detailes {
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    color: #ffff;
+    margin-bottom: 47px;
+
+}
+
+.left-side-button {}
+
+.Contact-us {
+    width: 183px;
+    height: 69px;
+    background-color: #00bec9;
+    color: #ffff;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+
+    font-size: 20.83px;
+
+
+}
+
+.Our-service {
+    width: 183px;
+    height: 69px;
+    background-color: #fcc302;
+    border: 4px solid white;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    font-size: 20.83px;
+    margin-left: 34px;
+
+
+}
+
+.banner-image img {
+    margin-top: 150px;
+    margin-left: 140px;
+}
+
+
+
+
+/* lover animal */
+
+
+#Animel-lover {
+    height: 735px;
+    padding: 0px 141px;
+}
+
+#left-side-lover-detailes {
+    padding: 0px;
+}
+
+.animel-lover-detailes {
+    height: 515px;
+    margin-top: 220px;
+    /* margin-left: 75px; */
+    margin-left: 10px;
+    /* position: relative; */
+}
+
+.headline-animal {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    padding-bottom: 45px;
+    margin: 0px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.detailes-animal {
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    padding-bottom: 45px;
+    margin: 0px;
+    line-height: 1.1;
+
+
+
+}
+
+.lover-animal-button {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20.83px;
+    background-color: #fcc302;
+    color: #ffff;
+    border: none;
+    width: 180px;
+    height: 69px;
+    border-radius: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+
+
+#right-side-lover-image {
+
+    padding: 0px;
+
+}
+
+#right-side-lover-image img {
+    /* position: absolute; */
+    /* bottom: 100px; */
+    margin-top: 150px;
+    margin-left: 119px;
+    /* height: 480px;
+    width: 510px; */
+
+}
+
+/* .right-side-detailes{
+    background-image: url(../Images/yellow\ box.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position-x:100px;
+    background-position-y:-100px;
+    height: 500px;
+} */
+
+/* .yelloe-box{
+    width: 252px;
+    height: 206px;
+    background-color: #fcc302;
+    /* position: absolute;
+    top: 300px; */
+/* position: absolute;
+    top: 492px;
+right: 507px;
+} */
+
+
+
+/* vacinations section */
+
+
+#vacination {
+    height: auto;
+    background-color: #fcc302;
+    padding: 0px 141px;
+
+}
+
+.Vacination-descriptiones {}
+
+.headlines-vacinations {
+    text-align: center;
+    padding-top: 110px;
+}
+
+.bold-headline {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    color: #ffff;
+}
+
+.small-detailes {
+    font-family: 'Poppins', sans-serif;
+    font-size: 33.33px;
+    color: #ffff;
+    margin: 0px;
+
+}
+
+.vacination-card-section {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    color: #ffff;
+
+}
+
+.card1 {
+    /* margin-left: 66px; */
+    text-align: center;
+}
+
+.card2 {
+    margin-left: 66px;
+    text-align: center;
+}
+
+.card3 {
+    margin-left: 66px;
+    text-align: center;
+}
+
+.image {
+    width: 353px;
+    height: 353px;
+    background-color: white;
+
+
+}
+
+.vacine-headline {
+    font-family: 'Poppins', sans-serif;
+    font-size: 37.5px;
+    padding-top: 55px;
+    padding-bottom: 30px;
+    margin: 0px;
+}
+
+.vacine-detailes {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+
+
+/* veterinerian animal lover */
+
+
+
+#veterinerian-animal-lover {
+    height: 793px;
+    padding: 0px;
+}
+
+#left-side-image {
+    /* padding: 0px; */
+}
+
+#image-and-detailes {
+    padding-left: 140px;
+    padding-top: 140px;
+}
+
+.veterinerian-animal-lover-desvriptions {
+    padding-right: 140px;
+display: flex;
+justify-content: end;
+flex-direction: column;
+align-items: end;
+padding-top: 51px;
+}
+
+.headline-animal-lover {
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    padding-bottom: 45px;
+    margin: 0px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.detailes-animal-lover {
+    font-family: 'Poppins', sans-serif;
+    font-size: 29.17px;
+    padding-bottom: 45px;
+    margin: 0px;
+    line-height: 1.1;
+    text-align: right;
+}
+
+.lover-animal-button-right {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20.83px;
+    background-color: #fcc302;
+    color: #ffff;
+    border: none;
+    width: 180px;
+    height: 69px;
+    border-radius: 20px;
+    text-align: right;
+    /* text-align: end; */
+    padding-right: 20px;
+
+}
+
+/*  */
+
+
+#dog-card-section {
+    background-color: #fcc302;
+    height: 1018px;
+    padding: 0px 141px;
+}
+
+.mother-card-section {}
+
+.heading-head {
+    text-align: center;
+    padding-top: 110px;
+}
+
+.titel-headline {
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    color: #ffff;
+    margin: 0px;
+
+}
+
+.title-descriptions {
+    font-family: 'Poppins', sans-serif;
+    font-size: 33.33px;
+    color: #ffff;
+    margin: 0px;
+}
+
+.dog-menu-card-section {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 98px;
+}
+
+.dog1 {
+    padding-right: 66px;
+}
+
+.dog-1-photo {}
+
+.dog-price-list {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+
+}
+
+.offprice {
+    background-image: url(../Images/white\ line.png);
+    background-size: 77% 6%;
+    background-repeat: no-repeat;
+    background-position-y: 30px;
+    background-position-x: 8px;
+    font-size: 41.67px;
+    padding-right: 20px;
+    color: #ffff;
+    width: 44%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.price {
+    font-size: 41.67px;
+    color: #ffff;
+    width: 26%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    text-align: left;
+}
+
+.buy-now {
+    width: 198px;
+    height: 60px;
+    background-color: #00bec9;
+    border: none;
+    border-radius: 40px;
+    font-size: 25px;
+    color: #ffff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+
+
+}
+
+.dog2 {
+    padding-right: 66px;
+}
+
+.dog3 {}
+
+
+/* doctor team */
+
+
+#doctor-team {
+    height: 1075px;
+    padding: 0px 141px;
+}
+
+.mother-div-doctor {}
+
+.doctor-section-head-part {
+    text-align: center;
+    padding-TOP: 145PX;
+    margin: 0px 141px;
+}
+
+.doctor-profile1 {
+    padding-right: 37px;
+}
+
+.doctor-profile2 {
+    padding-right: 37px;
+}
+
+.doctor-profile3 {}
+
+.doctor-heading {
+    padding-bottom: 46PX;
+    margin: 0PX;
+    font-size: 75PX;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.doctor-detailes {
+    padding-bottom: 98PX;
+    margin: 0PX;
+    font-size: 33.33PX;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.doctor-profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.name {
+    font-size: 29.17px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin: 0px;
+    padding-top: 40px;
+
+}
+
+.post {
+    font-size: 25px;
+    margin: 0px;
+    padding-bottom: 30px;
+}
+
+.fa-brands {
+    background-color: #caa000;
+    color: #ffff;
+    margin-right: 10px;
+    font-size: 25px;
+
+}
+
+/* bottom banner section */
+
+#bottom-banner {
+    height: 575px;
+    padding: 0px;
+}
+
+.bottom-banner-image {
+    background-image: url(../Images/bottom\ banner\ photo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 575px;
+    background-color: rgb(252, 205, 43);
+    /* opacity: 1.3; */
+    background-blend-mode: overlay;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 575px;
+    padding: 0px 141px;
+
+}
+
+.icon1 {
+    width: 276px;
+    text-align: center;
+}
+
+/* .counting {
+    font-size: 41.63px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    font-weight: 500;
+    padding-top: 56px;
+    margin: 0px;
+} */
+.counting1 {
+    font-size: 24.63px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    font-weight: 500;
+    padding-top: 20px;
+    margin: 0px;
+}
+
+.counting2 {
+    font-size: 24.63px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    font-weight: 500;
+    padding-top: 11px;
+    margin: 0px;
+}
+
+.counting3 {
+    font-size: 24.63px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    font-weight: 500;
+    padding-top: 33px;
+    margin: 0px;
+}
+
+/* .dipartment {
+    font-size: 37.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #ffff;
+    padding-top: 25px;
+    margin: 0px;
+
+
+} */
+.dipartment1 {
+    font-size: 26.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #ffff;
+    padding-top: 19px;
+    margin: 0px;
+}
+
+.dipartment2 {
+    font-size: 26.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #ffff;
+    padding-top: 15px;
+    margin: 0px;
+}
+
+.dipartment3 {
+    font-size: 26.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #ffff;
+    padding-top: 12px;
+    margin: 0px;
+}
+
+
+
+
+
+/* bottom doctor section */
+
+
+#botto-doctor-list {
+    height: 1178px;
+    padding: 0px;
+}
+
+.mother-bottom-div {}
+
+.doctor-heading-line {
+    text-align: center;
+    padding-top: 140px;
+}
+
+.headline-doctor-sectrion {
+    font-size: 75px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin: 0px;
+    padding-bottom: 40px;
+}
+
+.detailes-doctor-section {
+    font-size: 33.33px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding-bottom: 85px;
+}
+
+.bottom-doctor-card-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 141px;
+}
+
+.doctor-card-1 {
+    width: 360px;
+    margin-right: 60px;
+}
+
+.doctor-card-2 {
+    width: 360px;
+    margin-right: 60px;
+}
+
+.doctor-card-3 {
+    width: 360px;
+    /* margin-right: 60px; */
+}
+
+.bottom-doctor-image {}
+
+.doctor-description {
+    padding-left: 30px;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.doctor-description-2 {
+    padding-left: 30px;
+    box-shadow: 5px 5px 5px 5px rgb(241, 240, 240);
+}
+
+.name {
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.date {
+    color: #00bec9;
+    font-weight: 600;
+
+
+}
+
+.descriptions {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.readmore-plus {
+    color: #00bec9;
+    font-weight: 600;
+    font-size: 20.83px;
+}
+
+.readmore-plus-shadow {
+    color: #00bec9;
+    font-weight: 600;
+    padding-bottom: 11px;
+    margin: 0px;
+    font-size: 20.83px;
+}
+
+
+
+
+/* footer section */
+#footer-section {
+    height: 654px;
+    padding: 0px;
+    background-color: #343434;
+}
+
+.footer-mother-div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 130px;
+    padding-top: 170px;
+    color: #ffff;
+}
+
+.footer-mother-div ul{
+    list-style: none;
+
+}
+.footer-mother-div li{
+    padding-bottom: 15px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.about {
+    font-size: 37.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    /* color: #ffff; */
+    padding-bottom: 36px;
+    margin: 0px;
+}
+
+.services {
+    font-size: 37.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    /* color: #ffff; */
+    padding-bottom: 36px;
+    margin: 0px;
+
+
+
+
+
+}
+
+.right-side-bar {}
+
+.title-headline {
+    font-size: 37.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    /* color: #ffff; */
+    text-align: right;
+
+
+
+}
+
+.title-detailes {
+    text-align: right;
+   font-size:25px; 
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.box-div {
+    display: flex;
+}
+
+.yellow-box {
+    width: 387px;
+    height: 90px;
+    background-color: #fcc302;
+}
+
+.sky-box {
+    height: 90px;
+    width: 144px;
+    background-color: #00bec9;
+    margin: auto;
+
+}
+.fa-paper-plane{
+    font-size: 40px;
+    padding: 24px 50px;
+
+}
+.footer-icons {
+    text-align: right;
+    padding-top: 30px;
+}
+#whatsapp{
+    background-color: #343434;
+    font-size: 40px;
+    border-radius: 50px;
+    margin: 10px;
+    
+}
